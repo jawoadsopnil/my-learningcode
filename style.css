@@ -1,0 +1,38 @@
+.A1{
+    color:black;
+    background-color:yellow;
+    padding: 25px;
+    border-width: 10px;
+    border-style: initial;
+    padding-left: 350px;
+
+
+
+
+}
+h3{
+   background-color: aquamarine;
+   padding: 20px;
+   border-radius: 15px;
+
+}
+.a2{
+    background-color: aquamarine;
+    color: darkblue;
+   
+    padding-left: 350px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+    background-color:blanchedalmond;
+    border-radius: 50px;
+    padding-left: 350px;
+    
+
+}
+
+
